@@ -1,8 +1,6 @@
-%% MomentumAssignment.m file
-% Monday, October 9th, 2017
-% Team Ganda - Yazeed Amr, Tawfiq Najjar, Sammy Jondi
-% FINE 452 - Applied Quantitative Finance
-% Assignment #1 - AQR Momentum
+% AQR Momentum
+% Author: Yazeed Amr
+%
 % Purpose: To calculate cumulative returns of the recommended strategy that
 % allows mutual funds to capitulate on the phenmomenon of momentum trading
 % -------------------------------------------------------------------------
